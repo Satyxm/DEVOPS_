@@ -1,0 +1,2 @@
+This is my  new file and the terminal editor that i used to edit this file is nano.
+
